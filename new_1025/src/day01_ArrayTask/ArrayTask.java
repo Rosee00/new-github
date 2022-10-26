@@ -1,4 +1,4 @@
-package moonT_day01;
+package day01_ArrayTask;
 
 import java.util.Arrays;
 

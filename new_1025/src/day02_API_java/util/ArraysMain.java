@@ -1,4 +1,4 @@
-package moonT_day02; //=> 실습: 문자열 배열에서 문자열의 위치 찾기
+package day02_API_java.util; //=> 실습: 문자열 배열에서 문자열의 위치 찾기
 
 import java.util.Arrays;
 

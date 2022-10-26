@@ -1,4 +1,4 @@
-package moonT_day01;
+package day01_ArrayTask;
 
 public class PersonVO implements Comparable<PersonVO> { //value of object
 	private int num;

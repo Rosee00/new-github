@@ -1,4 +1,4 @@
-package moonT_day02;
+package day02_API_java.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

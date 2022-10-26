@@ -17,7 +17,9 @@ public class ArraysMain {
 		Arrays.sort(singers);
 		//정렬한 데이터 확인
 		System.out.println(Arrays.toString(singers));
+		
 		result = Arrays.binarySearch(singers, "태연");
+		
 		if(result >= 0) {
 			System.out.printf("%s 는 %d 번째 존재\n", "태연", result);
 		}else {

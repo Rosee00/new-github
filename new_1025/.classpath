@@ -5,8 +5,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="day03"/>
 	<classpathentry kind="src" path="day04"/>
+	<classpathentry kind="src" path="day05"/>
+	<classpathentry kind="src" path="day01"/>
+	<classpathentry kind="src" path="day02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
